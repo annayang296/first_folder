@@ -1,0 +1,13 @@
+body{
+  padding-left: 10px;
+}
+h1{
+  color:blue;
+}
+nav{
+  background-color: #1abc9c;
+  color: #ecf0f1;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 25px;
+}
